@@ -59,6 +59,8 @@ knitr::opts_chunk$set(
 
 Here is a citation [@Marwick2017]
 
+[@Friedlander2009]
+
 # Background
 
 # Methods
